@@ -1,0 +1,6 @@
+{
+  "name": "Sanjeevani AP",
+  "description": "Andhra Pradesh Traffic Police Emergency First Aid Grid & Golden Hour Response System presented at PAN IIT Vijayawada Summit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
